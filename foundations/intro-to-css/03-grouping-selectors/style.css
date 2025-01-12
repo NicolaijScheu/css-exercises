@@ -1,0 +1,18 @@
+/* a black background and white text */
+.button-one {
+    background-color: black;
+    color: white;
+}
+
+/* a yellow background */
+.button-two {
+    background-color: yellow;
+}
+
+/* a font size of 28px and a list of fonts 
+containing `Helvetica` and `Times New Roman`, 
+with `sans-serif` as a fallback */
+.shared-style {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
